@@ -14,5 +14,18 @@ Reduce Video Resolution
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+Archive, Extract and Copy
+---
+
+<a href="https://colab.research.google.com/gist/VikoFirdausi/bd5b3504fc115adf43aa6ff99b22dca3/ziping-and-copying.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+Torrent to Gdrive
+---
+
+<a href="https://colab.research.google.com/gist/VikoFirdausi/29e0de39e3a1b0de3c2d5b8c603bf2bf/torrent-to-gdrive-downloader.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 
