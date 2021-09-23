@@ -24,7 +24,7 @@ Archive, Extract and Copy
 Torrent to Gdrive
 ---
 
-<a href="https://colab.research.google.com/gist/VikoFirdausi/29e0de39e3a1b0de3c2d5b8c603bf2bf/torrent-to-gdrive-downloader.ipynb">
+<a href="https://colab.research.google.com/github/VikoFirdausi/Collab/blob/main/Torrent_To_GDrive_Downloader.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
