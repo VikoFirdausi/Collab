@@ -10,14 +10,14 @@ Url Downloader
 Reduce Video Resolution
 ---
 
-<a href="https://colab.research.google.com/gist/VikoFirdausi/b6a6e3bc89ed7c8164649dff7e4e2cba/reduce-video-resolution.ipynb">
+<a href="https://colab.research.google.com/github/VikoFirdausi/Collab/blob/main/Reduce_Video_Resolution.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 Archive, Extract and Copy
 ---
 
-<a href="https://colab.research.google.com/gist/VikoFirdausi/bd5b3504fc115adf43aa6ff99b22dca3/ziping-and-copying.ipynb">
+<a href="https://colab.research.google.com/github/VikoFirdausi/Collab/blob/main/Ziping_and_Copying.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
