@@ -31,4 +31,11 @@ Torrent to Gdrive
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+Mega Drive to Gdrive
+---
+
+<a href="https://colab.research.google.com/github/VikoFirdausi/IpynbFiles/blob/main/Mega_To_GDrive.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 
