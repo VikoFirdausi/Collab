@@ -1,7 +1,7 @@
 # Google Collab ipynb
  
 I make this just for google drive file,        
- If you need this thing use it
+ If you need this thing's use it
 
 Url Downloader
 --- 
