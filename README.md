@@ -10,6 +10,13 @@ Url Downloader
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+Url Downloader V2
+--- 
+
+<a href="https://colab.research.google.com/github/VikoFirdausi/IpynbFiles/blob/main/URL_Downloader%20V2.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 Reduce Video Resolution
 ---
 
