@@ -6,7 +6,7 @@ I make this just for google drive file,
 Url Downloader
 --- 
 
-<a href="https://colab.research.google.com/github/VikoFirdausi/IpynbFiles/blob/main/URL_Downloader.ipynb">
+<a href="https://colab.research.google.com/github/VikoFirdausi/IpynbFiles/blob/main/URL_Downloader%20V2.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
